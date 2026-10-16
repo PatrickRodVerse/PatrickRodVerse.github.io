@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="1080" viewBox="0 0 256 1080"><defs><pattern id="edge" width="256" height="6" patternUnits="userSpaceOnUse"><rect width="256" height="6" fill="#29292c"/><path d="M0 5.5H256" stroke="#3a3a3f" stroke-width="1"/></pattern></defs><rect width="256" height="1080" fill="url(#edge)"/></svg>
